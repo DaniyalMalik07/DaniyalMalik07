@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hi there 👋
+### I'm Daniyal Malik, a passionate full-stack Ruby on Rails developer. I specialize in:
+- Ruby on Rails
+- Javascript
+- Ajax
+- JQuery
+- Stimulus
+- Bootstrap
+- Tailwind CSS
+- Stripe
+- Google Drive Integration
+- Restful APIs
+- Chatgpt Integrationn
+- Redis
+- Sidekiq
+- Docker
+- AWS S3
+- AWS EC2
+- AWS RDS
+- CI/CD
 
-<!--
-**DaniyalMalik07/DaniyalMalik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out to me to collaborate or discuss exciting opportunities. Let's connect! 🌟
 
-Here are some ideas to get you started:
+#### My Linkedin Profile
+https://www.linkedin.com/in/daniyalmalik2/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### My Portfolio
+https://daniyal-malik.com/
